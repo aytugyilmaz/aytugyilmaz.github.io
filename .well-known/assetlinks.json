@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.i2dev.imsakiye",
+      "sha256_cert_fingerprints": [
+        "A1:71:DC:B1:54:2B:DB:67:13:68:28:0D:AF:ED:D1:63:AC:3B:7E:EB:5A:ED:D6:66:AB:A7:BC:55:9C:5A:4A:44"
+      ]
+    }
+  }
+]
